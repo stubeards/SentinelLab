@@ -3,7 +3,7 @@
 <h1>Creating a SIEM with Microsoft Azure and Sentinel</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project demonstrates the implementation of a Security Information and Event Management (SIEM) system using Microsoft Azure and Microsoft Sentinel. I set up a Windows 10 Virtual Machine (VM) as a honeypot in Azure to attract potential threats. Microsoft Sentinel was then configured to collect, analyze, and visualize security logs from the honeypot, providing insights into potential cyber threats and unauthorized access attempts. This project highlights the capabilities of cloud-based SIEM solutions in threat detection and incident response.
 <br />
 
 
@@ -14,7 +14,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10 Pro</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
