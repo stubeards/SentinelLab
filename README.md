@@ -14,9 +14,9 @@ This project demonstrates the implementation of a Security Information and Event
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 Pro</b> (21H2)
+- <b>Windows 10 Pro</b> (22H2)
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
